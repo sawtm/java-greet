@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar hello;
+
+public <command> = (Shut Down | Command Prompt | Control Panel | My Computer |  Task Manager);
+
+
